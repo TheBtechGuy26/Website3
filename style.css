@@ -467,6 +467,9 @@ span{
 }
 .slide-content{
     margin: 0 40px;
+    background-color: red;
+    overflow: hidden;
+    border-radius: 25px;
 
 }
 .card-content{
