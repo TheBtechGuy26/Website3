@@ -1,0 +1,57 @@
+.Footer-00main{
+    background-color: #011328;
+    padding: 40px;
+    min-height: 35vh;
+}
+.upper-portion{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.upper-footer-left{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    align-items: flex-start;
+}
+.upper-footer-left-writer{
+    margin: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.00938em;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 26px;
+}
+.upper-footer-right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
+.right-writer{
+    margin: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.00938em;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    line-height: 26px;
+}
+.lower-portion{
+    display: flex;
+    margin-top: 15vh;
+    margin-bottom: 1.5vh;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.Befikra-paper{
+    margin: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    line-height: 1.5rem;
+    color: #ffffff;
+    font-size: xx-large;
+}
