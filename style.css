@@ -127,6 +127,7 @@ text-align: start;
 .join-contribute-button-section{
     display: inline-flex;
     border-radius: 4px;
+    padding-top: 20px;
 }
 .join-button, .contribute-button, .view-more-button{
     align-items: center;
