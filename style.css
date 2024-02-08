@@ -432,3 +432,41 @@ span{
     display: flex;
     flex-direction: column;
 }
+
+.card{
+    /* width: 250px;
+    height: 350px; */
+    width: 100%;
+    height: 100%;
+    max-width: 35vh;
+    background-color: #011328;
+    border-radius: 25px;
+}
+.empty-portion{
+    display: flex;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    user-select: none;
+    padding: 1.2rem ;
+    max-width: 35vh;
+    height: 100%;
+
+    width: 100%;
+    /* height: 50%; */
+    background-color: #011328;
+    border-radius: 25px;
+}
+.slide-content{
+    margin: 0 40px;
+
+}
+.card-content{
+    padding: 10px 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.description, .name{
+    color: #ffffff;
+}
