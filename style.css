@@ -170,9 +170,9 @@ text-align: start;
     border-radius: inherit;
 }
 img {
-    width: 577px;
+    width: 50%;
     aspect-ratio: auto 577 / 433;
-    height: 433px;
+    height: 50%;
     overflow-clip-margin: content-box;
     overflow: clip;
     display: flex;
