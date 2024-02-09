@@ -41,7 +41,9 @@ p {
 }
 .css-g6p1lp {
     display: flex;
+    /* -webkit-box-pack: justify; */
     justify-content: space-between;
+    /* -webkit-box-align: center; */
     align-items: center;
     padding: 10px 2%;
 }
@@ -72,6 +74,7 @@ p {
     font-weight: 700;
 }
 
+/*not needer*/
 .css-w0pj6f {
     overflow: hidden;
     pointer-events: none;
@@ -172,12 +175,15 @@ img {
     height: 433px;
     overflow-clip-margin: content-box;
     overflow: clip;
+    display: flex;
 }
 .css-1srre4q{
-    display: flex;
+    display: block;
     align-items: center;
-    padding: 4rem 10rem;
+    padding: 2.5rem 2.5rem;
     flex-direction: column;
+    padding-bottom: 20px;
+
 }
 .MuiBox-root-with-area{
     display: flex;
