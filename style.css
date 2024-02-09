@@ -41,9 +41,7 @@ p {
 }
 .css-g6p1lp {
     display: flex;
-    /* -webkit-box-pack: justify; */
     justify-content: space-between;
-    /* -webkit-box-align: center; */
     align-items: center;
     padding: 10px 2%;
 }
@@ -74,7 +72,6 @@ p {
     font-weight: 700;
 }
 
-/*not needer*/
 .css-w0pj6f {
     overflow: hidden;
     pointer-events: none;
