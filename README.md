@@ -1,7 +1,7 @@
 # Befikra PAPARS
 
 
-**` Digital Craftsman (Developer/Video Editor/Creator)`**
+**` The Btech Guy (Developer/Video Editor/Creator)`**
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
